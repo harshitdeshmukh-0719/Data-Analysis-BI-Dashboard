@@ -21,27 +21,23 @@ Key Business Questions (KPIs)
 - Dashboard interation <a href="https://github.com/harshitdeshmukh-0719/Data-Analysis-BI-Dashboard/blob/main/Screenshot%202026-04-06%20133454.png">View Dashboard</a>
 
 ## Process
-Data Cleaning: Used Power Query to transform raw CSV data into a clean, usable format for analysis.
-
-Data Modelling: Built a Star Schema with a dedicated Date Table to ensure accurate time-based reporting.
-
-DAX Logic: Developed Time Intelligence measures to calculate dynamic YTD and QTD metrics.
-
-UI/UX Design: Crafted a Modern Dark Theme with Neon Glow effects and rounded corners for a premium feel.
-
-Process Automation: Integrated Customer Reviews with sales volume to automate a previously manual reporting process.
+- Data Cleaning: Used Power Query to transform raw CSV data into a clean, usable format for analysis.
+- Data Modelling: Built a Star Schema with a dedicated Date Table to ensure accurate time-based reporting.
+- DAX Logic: Developed Time Intelligence measures to calculate dynamic YTD and QTD metrics.
+- UI/UX Design: Crafted a Modern Dark Theme with Neon Glow effects and rounded corners for a premium feel.
+- Process Automation: Integrated Customer Reviews with sales volume to automate a previously manual reporting process.
 
 ## Dashboard
 <img width="1385" height="746" alt="Screenshot 2026-04-06 133454" src="https://github.com/user-attachments/assets/aafc9cc7-bed4-4e4f-89c7-16f27e7414d7" />
 
 
 ## Key Project Insights
--Seasonal Growth: Identified specific peak months where sales surge, allowing for better inventory and marketing prep.
--Customer Pulse: Discovered the correlation between high-volume sales and customer ratings to flag "at-risk" top sellers.
--Revenue Drivers: Confirmed that the Top 5 Products contribute to a significant majority of the total YTD Revenue.
--Quarterly Shifts: Spotted performance fluctuations between quarters (QTD) to help recalibrate short-term business goals.
--Operational Efficiency: Automated the entire reporting workflow, saving hours of manual data consolidation from CSV files.
--Category Dominance: Pinpointed which product categories are market leaders and which ones require strategic intervention.
+- Seasonal Growth: Identified specific peak months where sales surge, allowing for better inventory and marketing prep.
+- Customer Pulse: Discovered the correlation between high-volume sales and customer ratings to flag "at-risk" top sellers.
+- Revenue Drivers: Confirmed that the Top 5 Products contribute to a significant majority of the total YTD Revenue.
+- Quarterly Shifts: Spotted performance fluctuations between quarters (QTD) to help recalibrate short-term business goals.
+- Operational Efficiency: Automated the entire reporting workflow, saving hours of manual data consolidation from CSV files.
+- Category Dominance: Pinpointed which product categories are market leaders and which ones require strategic intervention.
 
 ## Final Conclusion
 This project successfully transforms fragmented Amazon sales data into a professional-grade analytical tool, bridging the gap between raw numbers and strategic growth. By mastering Advanced DAX and UI/UX design, I have created an automated system that not only tracks revenue but also pulses the heart of customer satisfaction. This dashboard stands as a testament to how data-driven storytelling can eliminate manual reporting and empower businesses to scale with confidence.
