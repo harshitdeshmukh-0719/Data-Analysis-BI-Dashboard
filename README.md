@@ -24,3 +24,18 @@ Are the high-selling products also receiving the highest customer satisfaction s
 
 
 - Dashboard interation <a href="https://github.com/harshitdeshmukh-0719/Data-Analysis-BI-Dashboard/blob/main/Screenshot%202026-04-06%20133454.png">View Dashboard</a>
+
+## Process
+Data Cleaning: Used Power Query to transform raw CSV data into a clean, usable format for analysis.
+
+Data Modelling: Built a Star Schema with a dedicated Date Table to ensure accurate time-based reporting.
+
+DAX Logic: Developed Time Intelligence measures to calculate dynamic YTD and QTD metrics.
+
+UI/UX Design: Crafted a Modern Dark Theme with Neon Glow effects and rounded corners for a premium feel.
+
+Process Automation: Integrated Customer Reviews with sales volume to automate a previously manual reporting process.
+
+## Dashboard
+<img width="1385" height="746" alt="Screenshot 2026-04-06 133454" src="https://github.com/user-attachments/assets/aafc9cc7-bed4-4e4f-89c7-16f27e7414d7" />
+
