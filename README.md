@@ -1,2 +1,3 @@
-# Data-Analysis-BI-Dashboard
-This Amazon Sales Analysis Dashboard is a comprehensive data storytelling tool designed to transform raw transactional data into high-level business intelligence. Rather than just presenting static figures, this project bridges the gap between complex datasets and actionable executive decisions.
+Amazon Sales Analysis Dashboard (YTD) using POWER-BI 
+Project Objectives
+The primary objective of this project is to transform raw Amazon transactional data into a centralized monitoring system that identifies seasonal growth patterns and short-term performance fluctuations. It aims to provide a 360-degree view of the business by linking sales volume with customer satisfaction metrics to drive data-backed strategic decisions.
