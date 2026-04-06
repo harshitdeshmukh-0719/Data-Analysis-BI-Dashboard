@@ -41,17 +41,12 @@ Process Automation: Integrated Customer Reviews with sales volume to automate a 
 
 
 ## Key Project Insights
-Seasonal Growth: Identified specific peak months where sales surge, allowing for better inventory and marketing prep.
-
-Customer Pulse: Discovered the correlation between high-volume sales and customer ratings to flag "at-risk" top sellers.
-
-Revenue Drivers: Confirmed that the Top 5 Products contribute to a significant majority of the total YTD Revenue.
-
-Quarterly Shifts: Spotted performance fluctuations between quarters (QTD) to help recalibrate short-term business goals.
-
-Operational Efficiency: Automated the entire reporting workflow, saving hours of manual data consolidation from CSV files.
-
-Category Dominance: Pinpointed which product categories are market leaders and which ones require strategic intervention.
+-Seasonal Growth: Identified specific peak months where sales surge, allowing for better inventory and marketing prep.
+-Customer Pulse: Discovered the correlation between high-volume sales and customer ratings to flag "at-risk" top sellers.
+-Revenue Drivers: Confirmed that the Top 5 Products contribute to a significant majority of the total YTD Revenue.
+-Quarterly Shifts: Spotted performance fluctuations between quarters (QTD) to help recalibrate short-term business goals.
+-Operational Efficiency: Automated the entire reporting workflow, saving hours of manual data consolidation from CSV files.
+-Category Dominance: Pinpointed which product categories are market leaders and which ones require strategic intervention.
 
 ## Final Conclusion
 This project successfully transforms fragmented Amazon sales data into a professional-grade analytical tool, bridging the gap between raw numbers and strategic growth. By mastering Advanced DAX and UI/UX design, I have created an automated system that not only tracks revenue but also pulses the heart of customer satisfaction. This dashboard stands as a testament to how data-driven storytelling can eliminate manual reporting and empower businesses to scale with confidence.
