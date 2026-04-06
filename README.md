@@ -1,7 +1,7 @@
 # Amazon Sales Analysis Dashboard (YTD) using POWER-BI 
 
 ## Project Objectives
-The primary objective of this project is to transform raw Amazon transactional data into a centralized monitoring system that identifies seasonal growth patterns and short-term performance fluctuations. It aims to provide a 360-degree view of the business by linking sales volume with customer satisfaction metrics to drive data-backed strategic decisions.
+- The primary objective of this project is to transform raw Amazon transactional data into a centralized monitoring system that identifies seasonal growth patterns and short-term performance fluctuations. It aims to provide a 360-degree view of the business by linking sales volume with customer satisfaction metrics to drive data-backed strategic decisions.
 
 ## Dataset Used
 - <a href="https://github.com/harshitdeshmukh-0719/Data-Analysis-BI-Dashboard/blob/main/Amazon_Data.xlsx">Dataset</a>
@@ -40,4 +40,4 @@ Key Business Questions (KPIs)
 - Category Dominance: Pinpointed which product categories are market leaders and which ones require strategic intervention.
 
 ## Final Conclusion
-This project successfully transforms fragmented Amazon sales data into a professional-grade analytical tool, bridging the gap between raw numbers and strategic growth. By mastering Advanced DAX and UI/UX design, I have created an automated system that not only tracks revenue but also pulses the heart of customer satisfaction. This dashboard stands as a testament to how data-driven storytelling can eliminate manual reporting and empower businesses to scale with confidence.
+- This project successfully transforms fragmented Amazon sales data into a professional-grade analytical tool, bridging the gap between raw numbers and strategic growth. By mastering Advanced DAX and UI/UX design, I have created an automated system that not only tracks revenue but also pulses the heart of customer satisfaction. This dashboard stands as a testament to how data-driven storytelling can eliminate manual reporting and empower businesses to scale with confidence.
